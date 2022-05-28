@@ -1,24 +1,24 @@
 {
-  "name": "@ant-design/tools",
-  "version": "15.0.2",
-  "description": "tools for ant design",
+  "name": "@taror/tools",
+  "version": "0.0.1",
+  "description": "Tools for Taro React components library",
   "keywords": [
-    "react",
+    "Taro React",
     "tools"
   ],
-  "homepage": "http://github.com/ant-design/antd-tools",
-  "author": "yiminghe@gmail.com",
+  "homepage": "https://github.com/SyMind/taror-tools",
+  "author": "dacongsama@live.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ant-design/antd-tools.git"
+    "url": "git@github.com:SyMind/taror-tools.git"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/antd-tools/issues"
+    "url": "https://github.com/SyMind/taror-tools/issues"
   },
   "license": "MIT",
   "bin": {
-    "antd-tools": "./bin/antd-tools.js",
-    "antd-tools-run": "./bin/antd-tools-run.js"
+    "taror-tools": "./bin/taror-tools.js",
+    "taror-tools-run": "./bin/taror-tools-run.js"
   },
   "scripts": {
     "pub": "git push origin && npm publish --access public",
