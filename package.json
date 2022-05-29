@@ -1,6 +1,6 @@
 {
   "name": "@taror/tools",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Tools for Taro React components library",
   "keywords": [
     "Taro React",
@@ -85,6 +85,8 @@
     "remark-stringify": "^8.0.0",
     "remark-yaml-config": "^4.1.0",
     "rimraf": "^3.0.0",
+    "sass": "^1.52.1",
+    "sass-loader": "^10.2.1",
     "through2": "^3.0.1",
     "ts-loader": "^8.0.12",
     "tslint": "^6.1.2",

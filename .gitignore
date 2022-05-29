@@ -23,6 +23,4 @@ node_modules
 .cache
 dist
 tests/*.css
-yarn.lock
-package-lock.json
 .vscode
